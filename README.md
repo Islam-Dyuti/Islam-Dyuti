@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Biomedical projects.
 - 📫 How to reach me dyutiislam@outlook.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: If I meet someone once, I can identify them in a crowd of millions. 
+- ⚡ Fun fact: If I meet someone once, I can identify that face in a crowd of millions. 
 
 <!---
 Islam-Dyuti/Islam-Dyuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
